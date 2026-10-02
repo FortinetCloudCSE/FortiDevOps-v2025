@@ -1,6 +1,6 @@
 ---
 title: "FortiCNAPP Basics"
-linkTitle: "Day 2: ForitCNAPP Basics"
+linkTitle: "Day 2: FortiCNAPP Basics"
 weight: 1
 #archetype: "chapter"
 ---
